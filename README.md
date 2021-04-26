@@ -7,4 +7,4 @@ Corona Virus is, unfortunately, spreading through the entire world. What can we,
 The project fetches the live data from the API!
 
 ## Live Demo
-[https://jovial-babbage-c7426f.netlify.app/](Click here to view live demo)
+[https://jovial-babbage-c7426f.netlify.app/]
